@@ -3,7 +3,7 @@ import Layout from '@/components/globalstyles/Layout';
 import { Praise, Sorts_Mill_Goudy } from 'next/font/google';
 
 const praise = Praise({
-  weight: '400', // Only one weight available for Praise
+  weight: '400',
   subsets: ['latin'],
   variable: '--font-praise',
   display: 'swap',
@@ -65,13 +65,8 @@ export default function RootLayout({
         />
         <link rel="manifest" href="/site.webmanifest" />
         <style>{globalHtmlBodyStyles}</style>
-        {/* <link
-          href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Playfair+Display:wght@400;700&display=swap"
-          rel="stylesheet"
-        /> */}
       </head>
       <body>
-        {/* ✅ Move client component inside <body> */}
         <Layout>{children}</Layout>
       </body>
     </html>
