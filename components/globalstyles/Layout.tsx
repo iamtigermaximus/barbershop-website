@@ -5,8 +5,6 @@ import { LoaderWrapper } from '../loader/LoaderWrapper';
 import Navbar from '../navbar/Navbar';
 import { useEffect, useState } from 'react';
 
-// import { GlobalStyles } from './GlobalStyles';
-
 const Layout = ({ children }: { children: React.ReactNode }) => {
   const [isHydrated, setIsHydrated] = useState(false);
 
