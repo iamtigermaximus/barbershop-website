@@ -61,7 +61,7 @@ export const TextColumn = styled.div`
   font-size: 1rem;
   margin-bottom: 2rem;
   font-family: var(--font-sortsMillGoudy);
-  color: #e7e7e6;
+  color: #e5e4e2;
   padding: 2rem;
   text-align: left;
 
@@ -102,7 +102,7 @@ export const SectionHeading = styled.h1`
 export const SectionSubtexts = styled.p`
   font-size: 1rem;
   font-family: var(--font-sortsMillGoudy);
-  color: #e7e7e6;
+  color: #e5e4e2;
 
   @media (min-width: ${bp.sm}) {
     font-size: 18px;

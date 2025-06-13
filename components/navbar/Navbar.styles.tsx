@@ -9,7 +9,7 @@ export const NavbarContainer = styled.nav`
   align-items: center;
   position: fixed;
   width: 100%;
-  color: var(--white);
+  color: #e5e4e2;
   background: black;
   padding-top: 1rem;
   z-index: 999;
@@ -161,7 +161,7 @@ export const NavLink = styled.li`
       font-size: 1rem;
       text-decoration: none;
       font-family: var(--font-sortsMillGoudy);
-      color: #e7e7e6;
+      color: #e5e4e2;
 
       &:hover {
         color: #a16a38;
@@ -193,7 +193,7 @@ export const NavLink = styled.li`
       position: relative;
       font-size: 1.5rem;
       text-decoration: none;
-      color: #e7e7e6;
+      color: #e5e4e2;
 
       &:hover {
         color: #a16a38;

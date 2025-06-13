@@ -17,7 +17,7 @@ export const Divider = styled.hr`
   background-color: black; /* fallback if var isn't set */
   border: none;
   opacity: 0.4; /* optional: softens it a bit */
-  color: white;
+  color: #e5e4e2;
 `;
 
 export const TextDivider = styled.div`

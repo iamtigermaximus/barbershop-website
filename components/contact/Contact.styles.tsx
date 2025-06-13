@@ -6,7 +6,7 @@ export const ContactContainer = styled.section`
   padding: 4rem 1rem;
   background: black;
   scroll-margin-top: 80px;
-  color: #e7e7e6;
+  color: #e5e4e2;
 
   @media (min-width: ${bp.md}) {
     padding: 6rem 2rem;
@@ -102,13 +102,13 @@ export const BarberName = styled.h3`
   font-size: 1.8rem;
   margin-bottom: 0;
   font-family: var(--font-sortsMillGoudy);
-  color: #e7e7e6;
+  color: #e5e4e2;
 `;
 
 export const BarberTitle = styled.p`
   font-size: 1.2rem;
   font-family: var(--font-sortsMillGoudy);
-  color: #e7e7e6;
+  color: #e5e4e2;
   margin-bottom: 0;
 `;
 
@@ -138,7 +138,7 @@ export const InfoItem = styled.div`
 
   font-size: 1rem;
   font-family: var(--font-sortsMillGoudy);
-  color: #e7e7e6;
+  color: #e5e4e2;
 
   @media (min-width: ${bp.sm}) {
     font-size: 18px;

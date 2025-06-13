@@ -113,12 +113,12 @@ export const ServiceTitle = styled.h3`
   font-size: 1.5rem;
   margin-bottom: 1rem;
   font-family: var(--font-sortsMillGoudy);
-  color: #e7e7e6;
+  color: #e5e4e2;
 `;
 
 export const ServiceDescription = styled.p`
   font-family: var(--font-sortsMillGoudy);
-  color: #e7e7e6;
+  color: #e5e4e2;
   margin-bottom: 1.5rem;
   min-height: 60px;
 `;

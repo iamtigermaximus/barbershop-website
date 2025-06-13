@@ -135,7 +135,7 @@ export const HeroSubtexts = styled.p`
   font-size: 1rem;
   margin-bottom: 2rem;
   font-family: var(--font-sortsMillGoudy);
-  color: #e7e7e6;
+  color: #e5e4e2;
   padding: 2rem;
 
   @media (min-width: ${bp.sm}) {
@@ -166,7 +166,7 @@ export const HeroButton = styled.button`
   transition: all 0.3s ease;
   border-radius: 4px;
   font-family: 'Playfair Display', serif;
-  color: #e7e7e6;
+  color: #e5e4e2;
   letter-spacing: 2px;
 
   &:hover {

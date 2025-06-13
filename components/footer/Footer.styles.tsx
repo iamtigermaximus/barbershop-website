@@ -43,7 +43,7 @@ export const SocialLink = styled.a`
 export const Copyright = styled.p`
   text-align: center;
   font-family: var(--font-sortsMillGoudy);
-  color: #e7e7e6;
+  color: #e5e4e2;
   font-size: 0.8rem;
   margin-top: 1.5rem;
 `;
