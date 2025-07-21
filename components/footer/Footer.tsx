@@ -27,7 +27,7 @@ const Footer = () => {
       </SocialLinks>
 
       <Copyright>
-        &copy; {new Date().getFullYear()} Jayson Parturi. All rights reserved.
+        &copy; {new Date().getFullYear()} John Doe Parturi. All rights reserved.
       </Copyright>
     </FooterContainer>
   );

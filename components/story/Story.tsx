@@ -31,10 +31,10 @@ const Story = () => {
           </LogoColumn>
 
           <TextColumn>
-            <SectionHeading>From Philippines to Finland</SectionHeading>
+            <SectionHeading>From Lorem Ipsum to Finland</SectionHeading>
             <SectionSubtexts>
               What started with a pair of clippers and a passion for clean fades
-              back in the Philippines has found its home in the heart of
+              back in the Lorem Ipsum has found its home in the heart of
               Finland. In 2024, a Filipino barber with a deep love for the craft
               — brought his skills, culture, and community spirit to a new
               place.
